@@ -15,14 +15,13 @@ darkmode: true
 # Social links
 github_username:  1A111A05
 linkedin_username: achyuthontisrinivasan
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: 'channel/UCcLsQImRsG047zish6qcfOQ'
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
+- title: YouTube
+  icon: fab fa-youtube
+  url: https://www.youtube.com/channel/UCcLsQImRsG047zish6qcfOQ
+
 - title: Reddit
   icon: fab fa-reddit-alien
   url: https://www.reddit.com/user/1A111A05/
@@ -82,7 +81,7 @@ content:
       
       - layout: right
         description: |
-          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") ⬅ ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
+          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") < < < < < ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
         sub_title: August 2016 - February 2017
       - layout: left
         # link_text: boringcompany.com
@@ -108,7 +107,7 @@ content:
           - Grade: 71.8%
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
