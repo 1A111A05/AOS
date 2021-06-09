@@ -49,44 +49,47 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
+        sub_title:  April 2017 - February 2021
         description: |
           ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
       - layout: left
-        sub_title: Senior Software Development Engineer
-        caption: July 2019 - February 2021 
+        sub_title: July 2019 - February 2021
         quote: >
-          April 2017 - February 2021
+          Senior Software Development Engineer
         description: | # this will include new lines to allow paragraphs
           - Designed and implemented the Endpoint Malware Protection component for macOS which was built from scratch.
           - Worked on various critical field issues and also worked in consultation capacity for any new features being released.
       - layout: left
-        sub_title: Software Development Engineer
-        caption: July 2018 – July 2019
+        quote: >
+          Software Development Engineer
+        sub_title: July 2018 – July 2019
         description: | # this will include new lines to allow paragraphs
           - Worked on improving performance and detection efficacy in the product. This ensured the reduction in performance impact score by a factor of 3.3 times the earlier scores which when coupled with the improved detection rates lead us to be an AV-Comparatives approved Business security product with zero false positives.
           - Have contributed to features for supporting windows AMPPL certification requirements for FireEye Endpoint Security.
           - Worked on a Command line scanner by FireEye which is hosted in VirusTotal.
       - layout: left
-        sub_title: Associate Software Development Engineer
-        caption: Jan 2018 – July 2018
+        quote: >
+          Associate Software Development Engineer
+        sub_title: Jan 2018 – July 2018
         description: | # this will include new lines to allow paragraphs 
           - Worked on the development of the FireEye Endpoint Agent for Malware Guard release. Malware Guard is a Machine Learning based Anti-Malware Engine which was added to the Endpoint Agent. This product went on to win the first place in NAVWAR Enterprise Awards for Artificial Intelligence Challenge
           - Built lateral movement detection engine POC as a hackathon project which was later productised and helped in detecting the Solarwinds breach of 2020
-      - layout: right
-        sub_title: Associate Software Development Engineer In Test
-        caption: April 2017 – Jan 2018
+      - layout: left
+        quote: >
+          Associate Software Development Engineer In Test
+        sub_title: April 2017 – Jan 2018
         description: | # this will include new lines to allow paragraphs 
           - Designed and Implemented a performance test framework for the endpoint protection application to measure system impact due to AV. This was a dynamic framework which was capable of obtaining all related system metrics and caught multiple performance hits which were later fixed.
       
       - layout: right
         description: |
           ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
+        sub_title: August 2016 - February 2017
       - layout: left
         # link_text: boringcompany.com
-        sub_title: Associate Software Development Engineer
+        sub_title: August 2016 - February 2017
         quote: >
-          August 2016 - February 2017
-        caption: August 2016 - February 2017
+          Associate Software Development Engineer
         description: | # this will include new lines to allow paragraphs
           - Part Data Protection team of the Dell Software Group which was acquired by Francisco partners.
           - My role in this organisation was to develop applications in C for the DR series Purpose Based
