@@ -67,7 +67,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-middle
         description: |
           ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
       - layout: left
@@ -94,10 +94,10 @@ content:
           Associate Software Development Engineer In Test April 2017 – Jan 2018
             - Designed and Implemented a performance test framework for the endpoint protection application to measure system impact due to AV. This was a dynamic framework which was capable of obtaining all related system metrics and caught multiple performance hits which were later fixed.
       
-      - layout: top
+      - layout: top-middle
         description: |
           ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest")
-      - layout: top
+      - layout: top-middle
         description: |
           ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
       - layout: left
