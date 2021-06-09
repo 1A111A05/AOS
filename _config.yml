@@ -48,7 +48,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         description: |
           ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
       - layout: left
@@ -72,13 +72,13 @@ content:
         description: | # this will include new lines to allow paragraphs 
           - Worked on the development of the FireEye Endpoint Agent for Malware Guard release. Malware Guard is a Machine Learning based Anti-Malware Engine which was added to the Endpoint Agent. This product went on to win the first place in NAVWAR Enterprise Awards for Artificial Intelligence Challenge
           - Built lateral movement detection engine POC as a hackathon project which was later productised and helped in detecting the Solarwinds breach of 2020
-      - layout: left
+      - layout: right
         sub_title: Associate Software Development Engineer In Test
         caption: April 2017 – Jan 2018
         description: | # this will include new lines to allow paragraphs 
           - Designed and Implemented a performance test framework for the endpoint protection application to measure system impact due to AV. This was a dynamic framework which was capable of obtaining all related system metrics and caught multiple performance hits which were later fixed.
       
-      - layout: left
+      - layout: right
         description: |
           ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
       - layout: left
@@ -100,12 +100,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Vishveshwaraya Technological University
-        caption: PESIT-Bangalaore South Campus
+        caption: Vishveshwaraya Technological University
         sub_title: Bachelor of Engineering (BE) Information Science
         quote: >
           2012 - 2016
         description: | # this will include new lines to allow paragraphs
+          PESIT-Bangalaore South Campus
           - Grade: 71.8%
 
 # Footer
