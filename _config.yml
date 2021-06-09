@@ -75,22 +75,45 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Software Development Engineer
         caption: April 2017 - February 2021
+        quote: >
+          Security Reimagined
         description: | # this will include new lines to allow paragraphs
-          ####Senior Software Development Engineer
+          Senior Software Development Engineer July 2019 – February 2021
             - Designed and implemented the Endpoint Malware Protection component for macOS which was built from scratch.
             - Worked on various critical field issues and also worked in consultation capacity for any new features being released.
 
-          ####Software Development Engineer July 2018 – July 2019
+          Software Development Engineer July 2018 – July 2019
             - Worked on improving performance and detection efficacy in the product. This ensured the reduction in performance impact score by a factor of 3.3 times the earlier scores which when coupled with the improved detection rates lead us to be an AV-Comparatives approved Business security product with zero false positives.
             - Have contributed to features for supporting windows AMPPL certification requirements for FireEye Endpoint Security.
             - Worked on a Command line scanner by FireEye which is hosted in VirusTotal.
 
-          ####Associate Software Development Engineer Jan 2018 – July 2018
+          Associate Software Development Engineer Jan 2018 – July 2018
             - Worked on the development of the FireEye Endpoint Agent for Malware Guard release. Malware Guard is a Machine Learning based Anti-Malware Engine which was added to the Endpoint Agent. This product went on to win the first place in NAVWAR Enterprise Awards for Artificial Intelligence Challenge
             - Built lateral movement detection engine POC as a hackathon project which was later productised and helped in detecting the Solarwinds breach of 2020
 
-          ####Associate Software Development Engineer In Test April 2017 – Jan 2018
+          Associate Software Development Engineer In Test April 2017 – Jan 2018
             - Designed and Implemented a performance test framework for the endpoint protection application to measure system impact due to AV. This was a dynamic framework which was capable of obtaining all related system metrics and caught multiple performance hits which were later fixed.
+      
+      - layout: top
+        description: |
+          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest")
+      - layout: top
+        description: |
+          ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
+      - layout: left
+        # link_text: boringcompany.com
+        sub_title: Associate Software Development Engineer
+        caption: August 2016 - February 2017
+        quote: >
+          Security Reimagined
+        description: | # this will include new lines to allow paragraphs
+          - Part Data Protection team of the Dell Software Group which was acquired by Francisco partners.
+          - My role in this organisation was to develop applications in C for the DR series Purpose Based
+          Backup Appliances (PBBA) that provided Deduplication and Compression for backing up data.
+          - Some of the projects that I worked on were a slab allocator profiling module that was used to track fragmentation in the user space memory allocator in order to redesign the allocator to
+          boost performance.
+          - I also worked on a shared memory interface component that was used to track the samba VFS
+          plugin requests to the deduplicating filesystem.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
