@@ -75,10 +75,9 @@ content:
         caption: November 2017 - Present
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-        content:
-          - layout: top
-            description: |
-              ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
+      - layout: top
+        description: |
+          ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
