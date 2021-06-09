@@ -67,7 +67,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top
         description: |
           || <!-- empty table header -->|| <!-- table header/body separator with center formatting -->| ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye") | <!-- cell gets column's alignment -->
       - layout: left
