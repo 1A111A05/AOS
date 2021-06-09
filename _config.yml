@@ -69,7 +69,7 @@ content:
     content:
       - layout: top-middle
         description: |
-          ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye")
+          || <!-- empty table header -->|:--:| <!-- table header/body separator with center formatting -->| ![FireEye](https://github.com/1A111A05/AOS/raw/gh-pages/images/feye.png "fireeye") | <!-- cell gets column's alignment -->
       - layout: left
         link: fireeye.com
         # link_text: boringcompany.com
