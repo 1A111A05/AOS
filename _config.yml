@@ -17,7 +17,7 @@ github_username:  1A111A05
 linkedin_username: achyuthontisrinivasan
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: "channel/UCcLsQImRsG047zish6qcfOQ"
+youtube_username: 'channel/UCcLsQImRsG047zish6qcfOQ'
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -31,9 +31,6 @@ additional_links:
   icon: fas fa-envelope
   url: mailto:achyuthontisrinivasan@gmail.com
   
-- title: Web
-  icon: fas fa-globe
-  url: https://www.1a111a05.github.io/aos
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -85,7 +82,7 @@ content:
       
       - layout: right
         description: |
-          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") $~~~~~~~~~~~$ ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
+          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") ⬅ ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
         sub_title: August 2016 - February 2017
       - layout: left
         # link_text: boringcompany.com
