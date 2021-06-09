@@ -69,7 +69,7 @@ content:
     content:
       - layout: left
         title: |
-          ![FireEye](/AOS/images/feye.png "Trees")
+          ![FireEye](/images/feye.png "Trees")
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Senior Software Development Engineer
