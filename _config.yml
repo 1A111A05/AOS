@@ -8,8 +8,6 @@ version: 2
 # Personal info
 name: Achyutha Onti Srinivasan
 title: Software Developer and Musician
-email: achyuthontisrinivasan@gmail.com
-website: www.1a111a05.github.io/aos
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -28,6 +26,14 @@ additional_links:
 - title: Reddit
   icon: fab fa-reddit-alien
   url: https://www.reddit.com/user/1A111A05/
+
+- title: Mail
+  icon: fas fa-envelope
+  url: mailto:achyuthontisrinivasan@gmail.com
+  
+- title: Web
+  icon: fas fa-globe
+  url: https://www.1a111a05.github.io/aos
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -39,13 +45,13 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Summary
 about_profile_image: images/aos.png
 about_content: | # this will include new lines to allow paragraphs
   Software Engineer with 5+ years of industry experience in the field of Endpoint Security and Data Backup. Experienced in application and system programming with proficiency in object oriented software system design. Currently working on payments backend and payment clients.
 
 content:
-  - title: Experience # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
@@ -79,7 +85,7 @@ content:
       
       - layout: right
         description: |
-          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") &nbsp; ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
+          ![Quest](https://github.com/1A111A05/AOS/raw/gh-pages/images/quest.png "quest") $~~~~~~~~~~~$ ![Dell](https://github.com/1A111A05/AOS/raw/gh-pages/images/dell.png "dell")
         sub_title: August 2016 - February 2017
       - layout: left
         # link_text: boringcompany.com
