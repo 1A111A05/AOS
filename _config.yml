@@ -111,12 +111,12 @@ content:
     content:
       - layout: top-middle
         description: |
-          | ![Logo](https://github.com/1A111A05/AOS/raw/gh-pages/images/logos.png "logo")  
-            
-            
-            |
+          | ![Logo](https://github.com/1A111A05/AOS/raw/gh-pages/images/logos.png "logo") |
           |:---:|
-          ||
+          |  |
+            
+            
+            
 
 # Footer
 footer_show_references: false
